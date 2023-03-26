@@ -1,0 +1,4 @@
+.TodoListItem {
+    display: flex;
+    flex-direction: column;
+}
